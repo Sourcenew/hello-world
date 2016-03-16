@@ -2,4 +2,4 @@
 
 Hello People!
 
-My name us Hatem :)
+My name is Hatem :)
